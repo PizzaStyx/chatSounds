@@ -1,0 +1,15 @@
+name: ChatSounds
+main: org.pizzaparrot.chatsounds.Main
+author: PizzaParrot
+version: 1.0
+description: Add sound to player chat, just like Terraria!
+
+commands:
+  chatsounds:
+    description: ChatSounds main command
+    usage: /<command>
+    aliases: [chs, chatsound, chsound]
+
+permissions:
+  chatsounds.reload:
+    default: op

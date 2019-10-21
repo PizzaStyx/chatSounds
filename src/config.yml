@@ -1,0 +1,7 @@
+# ChatSounds Config
+# Name of the sound you would like to use
+sound: UI_BUTTON_CLICK
+# Volume of the sound. Ranges between 0.0 and 1.0
+volume: 1.0
+# Pitch of the sound. Must be positive
+pitch: 2.0
